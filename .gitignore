@@ -162,3 +162,5 @@ cython_debug/
 
 Yearly Data/
 usa_00003.csv
+server_user_id.txt
+usa_00003.csv.gz
