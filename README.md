@@ -10,11 +10,6 @@ This repository contains the code and data used in the research study: **"Socioe
   - Classification models to predict generational membership.
   - Regression models to estimate the year of birth as a continuous variable.
   - Feature selection using mutual information.
-  - Explainable Boosting Machine (EBM) as the best-performing classifier.
-- **Key Results**:
-  - Classification accuracy: **74.62%** (highest achieved by EBM).
-  - Regression performance: **$R^2 = 0.6005$** with an average absolute error of **eight years**.
-  - Insights: Generation Z experiences the highest rent-to-income burden (60.0%) and faces significant barriers to homeownership.
 
 ## Repository Contents
 
@@ -32,10 +27,6 @@ This repository includes:
   - Model outputs, performance metrics, and summary statistics.
 
 ## Getting Started
-
-### Prerequisites
-- Python 3.8+
-- Required Python libraries (listed in `requirements.txt`).
 
 ### Installation
 1. Clone the repository:
