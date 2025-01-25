@@ -1,6 +1,6 @@
 # Generation Z and the New Economic Reality: A Machine Learning Perspective on Financial Challenges
 
-This repository contains the code and data used in the research study: **"Socioeconomic Disparities Across Generations: A Focus on Generation Z"**. The study explores generational differences in socioeconomic features, such as income distribution and housing affordability, using machine learning techniques to identify patterns and predict generational membership and year of birth.
+This repository contains the code and data used in the research study: **"Generation Z and the New Economic Reality: A Machine Learning Perspective on Financial Challenges"**. The study explores generational differences in socioeconomic features, such as income distribution and housing affordability, using machine learning techniques to identify patterns and predict generational membership and year of birth.
 
 ## Overview
 
