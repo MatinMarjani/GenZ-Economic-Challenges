@@ -31,4 +31,4 @@ This repository includes:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/socioeconomic-disparities.git
+   git clone https://github.com/MatinMarjani/GenZ-Economic-Challenges
