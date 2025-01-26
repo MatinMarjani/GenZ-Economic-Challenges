@@ -32,3 +32,18 @@ This repository includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MatinMarjani/GenZ-Economic-Challenges
+
+### Data Input
+1. Data collected from [IPMUS](https://usa.ipums.org/)
+2. Select and download the necessary variables used in this research.
+
+### Citation
+If you use this repository or reproduce the results, please cite the IPUMS USA data appropriately as follows:
+
+**For IPUMS USA Version 15.0**:
+> Steven Ruggles, Sarah Flood, Matthew Sobek, Daniel Backman, Annie Chen, Grace Cooper, Stephanie Richards, Renae Rodgers, and Megan Schouweiler. IPUMS USA: Version 15.0 [dataset]. Minneapolis, MN: IPUMS, 2024. https://doi.org/10.18128/D010.V15.0
+
+**For Full Count Data (1790-1950)** (if used):
+> Steven Ruggles, Matt A. Nelson, Matthew Sobek, Catherine A. Fitch, Ronald Goeken, J. David Hacker, Evan Roberts, and J. Robert Warren. IPUMS Ancestry Full Count Data: Version 4.0 [dataset]. Minneapolis, MN: IPUMS, 2024. https://doi.org/10.18128/D014.V4.0
+
+For additional guidance, refer to the [IPUMS citation page](https://ipums.org/citation](https://usa.ipums.org/usa/cite.shtml).
